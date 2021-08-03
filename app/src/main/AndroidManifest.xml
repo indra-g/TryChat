@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/chatIcon"
+        android:icon="@mipmap/chaticon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/chatIcon"
+        android:roundIcon="@mipmap/chaticon"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MessageActivity"></activity>
